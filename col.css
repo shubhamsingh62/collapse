@@ -1,0 +1,57 @@
+body{
+	background-color: grey;
+	margin-top: 10%;
+}
+.one{
+	background-color: orange;
+    border: solid 1px black;
+    padding-top: 1.5em;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.two{
+	margin-left: 20%;
+    margin-right: 20%;
+    border:solid 1px black;
+    display: none;
+
+}
+.three{
+	margin-left: 20%;
+    margin-right: 20%;
+    border:solid 1px black;
+    display: none;
+}
+.four{
+	margin-left: 20%;
+    margin-right: 20%;
+    border:solid 1px grey;
+    display: none;
+}
+#clickdiv #clickdiv1 #clickdiv2{
+	margin-bottom: 15%;
+	color: darkblue;
+}
+
+#clickdiv:hover{
+	text-decoration: underline;
+	color:  blue;
+
+}
+#clickdiv1:hover{
+	text-decoration: underline;
+	color: blue;
+
+}
+#clickdiv2:hover{
+	text-decoration: underline;
+	color: blue;
+
+}
+.active{
+	text-decoration: underline;
+	color: blue;
+}
+.pdiv{
+	width: 21.5%;
+}
